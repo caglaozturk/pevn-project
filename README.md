@@ -1,5 +1,6 @@
 ##  _Cup Cake_
 
+![vue-admin](https://user-images.githubusercontent.com/26042284/166487497-42b14253-b116-48c2-a0aa-4acd3e6a1bdb.png)
 
 
 - ✨Vue Js ✨
@@ -87,4 +88,8 @@ Rename .env-example to .env
 node app or npm start
 
 ```
+
+
+https://user-images.githubusercontent.com/26042284/166487617-61717a18-5615-49b9-b0b1-147ad42766b3.mp4
+
 
